@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  encoding: utf8
+  reconnect: false
+  database: soa-test
+  username: postgres
+  password: '12345'
